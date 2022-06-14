@@ -8,7 +8,7 @@ Using this, you can convince the jury and the judge
 
 # How to use this software?
 
-Replace "Brett Kavanaugh" in the file `whodidit.sh` with the name
+Replace "Danny Chun" in the file `whodidit.sh` with the name
  of your prosecutor.
 Then, in a terminal, run `bash whodidit.sh`.
 The jury and judge will likely be shocked to see the output,
